@@ -1,6 +1,6 @@
 # Test Instructions 
 
-1. Run `dismiss-alerts.yml` workflow to get baseline analysis. This should have 35 code scanning alerts 
+1. Run `dismiss-alerts.yml` workflow to get baseline analysis. This should have 31 open and 2 closed code scanning alerts
 2. Add `codeql` comment to the following files:
 
 | File        | Line No.    |
