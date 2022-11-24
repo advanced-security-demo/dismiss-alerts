@@ -23,7 +23,7 @@ class Program
 			foreach (ZipArchiveEntry entry in zipArchive.Entries)
 			{
 			
-				string extractPath = Path.Combine(destination, entry.FullName); 
+				string extractPath = Path.Combine(destination, entry.FullName); //codeql 
 				entry.ExtractToFile(extractPath);
 			}
 		}
