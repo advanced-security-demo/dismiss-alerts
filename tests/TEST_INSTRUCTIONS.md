@@ -13,3 +13,4 @@
 | tests/ruby/logging.rb | 27 |
 
 3. Run `dismiss-alerts.yml` analysis
+<img width="1858" alt="test_result" src="https://user-images.githubusercontent.com/68650974/203704720-1d8dc7d3-9b9b-4265-808e-6cc5a60be9ee.png">
